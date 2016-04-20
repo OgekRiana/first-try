@@ -1,0 +1,40 @@
+.footer {
+	background-color: transparent;
+	border-top: 5px solid #FF9966;
+	width: 100%;																																																																																																																																			
+}
+
+.footer-text{
+	line-height: 70px;
+	color: #000000;
+	font-family: lato;
+	font-size: 14px;
+	text-align: right;
+}
+
+.jm-nav{
+	background-color: #FF9966;	
+	position: fixed;																																																							
+    top: 0;
+    width: 100%;
+    border-bottom: 5px solid #eaeaea;
+}	
+
+.jm-nav img {
+  position      : relative;
+  height  : 60px;
+  margin-top: 1px
+}	
+.navbar-menu{
+	color: #ffffff;
+    font-size: 30px;
+    font-weight: 5px;
+    font-family: lato;
+    margin-top: 3px;
+}
+.navbar-social{
+	text-align: right;
+	color: #ffffff;
+	margin-top: 13px;
+
+}																																																																																																																																																																																																				

@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'default' => 'mysql',
+	'default' => 'pgsql',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -65,10 +65,10 @@ return array(
 
 		'pgsql' => array(
 			'driver'   => 'pgsql',
-			'host'     => 'localhost',
-			'database' => 'forge',
-			'username' => 'forge',
-			'password' => '',
+			'host'     => '127.0.0.1',
+			'database' => 'jumodb',
+			'username' => 'jumofresh',
+			'password' => 'jum0*#F1235H',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 			'schema'   => 'public',
